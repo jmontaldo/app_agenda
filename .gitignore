@@ -1,0 +1,6 @@
+logs/logs.txt
+logs/__pycache__
+modelo/mibase.db
+modelo/__pycache__
+utils/__pycache__
+vista/__pycache__
